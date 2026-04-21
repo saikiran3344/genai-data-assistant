@@ -1,0 +1,34 @@
+# Virtual environment
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build / packaging
+*.egg-info/
+build/
+dist/
+
+# Logs
+*.log
+
+# Data files
+data/*.pdf
+data/*.csv
+data/*.xlsx
+
+# Jupyter notebooks 
+.ipynb_checkpoints/
+
+# Pytest
+.pytest_cache/
+
+# IDE files
+.vscode/
+.idea/
